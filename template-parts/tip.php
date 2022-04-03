@@ -1,0 +1,1 @@
+<img id="tip" src="img/tip.png" alt="tip">
